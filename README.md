@@ -6,7 +6,7 @@
 
 This is the code repository for [Web App Development Made Simple with Streamlit](https://www.packtpub.com/product/web-app-development-made-simple-with-streamlit/9781835086315), published by Packt.
 
-** A web developer’s guide to effortless web app development, deployment, and scalability
+**A web developer’s guide to effortless web app development, deployment, and scalability
 
 ## What is this book about?
 This book is a comprehensive guide to the Streamlit open-source Python library and simplifying the process of creating web applications. Through hands-on guidance and realistic examples, you’ll progress from crafting simple to sophisticated web applications from scratch. This book covers everything from understanding Streamlit's central principles, modules, basic features, and widgets to advanced skills such as dealing with databases, hashes, sessions, and multipages.
